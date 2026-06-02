@@ -31,7 +31,7 @@ Currently building practical security projects and labs while pursuing my MSc in
 
 ---
 
-## 🔭 Current Focus Areas
+# 🔭 Current Focus Areas
 
 • ⚙️ Firmware rehosting, binary analysis, and reverse engineering of embedded systems  
 • 🔍 Vulnerability research through fuzzing, protocol analysis, and secure software assessment  
@@ -44,7 +44,7 @@ Currently building practical security projects and labs while pursuing my MSc in
 • 🐧 Linux and Windows security, privilege escalation analysis, and system hardening  
 • 🚀 Security research projects involving firmware emulation, embedded security, and defensive technologies
 
-- ## 🚀 Featured Security Projects
+- # 🚀 Featured Security Projects
 
 | Project | Description |
 |----------|-------------|
