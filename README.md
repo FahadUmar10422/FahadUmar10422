@@ -119,8 +119,8 @@ I work on problems such as:
 
 **Tools:** Docker · Git · GitHub · Linux · Windows · Virtualization · QEMU
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahadUmar10422/FahadUmar10422/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/FahadUmar10422/FahadUmar10422/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
