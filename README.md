@@ -10,7 +10,7 @@
 
 
 ---
-##🔬 About Me
+## 🔬 About Me
 
 Cybersecurity enthusiast with interests in:
 
