@@ -47,6 +47,7 @@ I work on problems such as:
 * 💾 Full-disk encryption, key management, and platform storage security
 * ⚙️ ARM platform security, firmware integrity, and secure bootloader design
 
+
 ---
 
 ## 🧪 Featured Security Projects
