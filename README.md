@@ -34,25 +34,16 @@ Currently building practical security projects and labs while pursuing my MSc in
 ## 🔭 Current Focus Areas
 
 
-⚙️ Firmware rehosting, binary analysis, and reverse engineering of embedded systems
-
-🔍 Vulnerability research through fuzzing, protocol analysis, and secure software assessment
-
-📡 IoT security testing including network traffic analysis, ARP/DNS attacks, and device reconnaissance
-
-🔐 Cryptographic protocol analysis, authentication mechanisms, and secure system design
-
-🦠 Malware analysis using static analysis, dynamic instrumentation, and behavioural investigation
-
-💾 Hardware security involving secure boot chains, firmware integrity, and storage encryption
-
-🌐 Network security monitoring, threat hunting, and incident response workflows
-
-🛡️ Penetration testing of web applications, operating systems, and enterprise environments
-
-🐧 Linux and Windows security, privilege escalation analysis, and system hardening
-
-🚀 Security research projects involving firmware emulation, embedded security, and defensive technologies
+-⚙️ Firmware rehosting, binary analysis, and reverse engineering of embedded systems
+-🔍 Vulnerability research through fuzzing, protocol analysis, and secure software assessment
+-📡 IoT security testing, including network traffic analysis, ARP/DNS attacks, and device reconnaissance
+-🔐 Cryptographic protocol analysis, authentication mechanisms, and secure system design
+-🦠 Malware analysis using static analysis, dynamic instrumentation, and behavioural investigation
+-💾 Hardware security involving secure boot chains, firmware integrity, and storage encryption
+-🌐 Network security monitoring, threat hunting, and incident response workflows
+-🛡️ Penetration testing of web applications, operating systems, and enterprise environments
+-🐧 Linux and Windows security, privilege escalation analysis, and system hardening
+-🚀 Security research projects involving firmware emulation, embedded security, and defensive technologies
 
 
 - ## 🚀 Featured Security Projects
