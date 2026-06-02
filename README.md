@@ -2,9 +2,15 @@
   <img src="banner.png" alt="Banner">
 </div>
 
-<h2 align="center">Hi, I'm Fahad Umar 👋</h2>
+<h1 align="center">Hi, I'm Fahad Umar 👋</h1>
 
-<h4 align="center">MSc Cyber Security @ University of Birmingham</h4>
+<h3 align="center">
+MSc Cyber Security @ University of Birmingham
+</h3>
+
+<p align="center">
+Penetration Testing • Reverse Engineering • Malware Analysis • Digital Forensics • Firmware Security
+</p>
 
 Cybersecurity enthusiast with interests in:
 
