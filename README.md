@@ -9,9 +9,7 @@ MSc Cyber Security @ University of Birmingham| Penetration Testing | Reverse Eng
 </p>
 
 
-
-
----
+----
 Cybersecurity enthusiast with interests in:
 
 - Penetration Testing
