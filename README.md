@@ -27,7 +27,7 @@ I work on problems such as:
 * Threat modelling and security architecture review to strengthen the resilience of software and hardware systems.
 
 
-Currently building practical security projects and labs while pursuing my MSc in Cyber Security.
+🎓 Currently building practical security projects and labs while pursuing my MSc in Cyber Security.
 
 ---
 
@@ -46,7 +46,7 @@ Currently building practical security projects and labs while pursuing my MSc in
 
 ---
 
-- # 🚀 Featured Security Projects
+# 💻 Featured Security Projects
 
 | Project | Description |
 |----------|-------------|
