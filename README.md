@@ -46,14 +46,20 @@ I work on problems such as:
 
 ---
 
-# 💻 Featured Security Projects
+## 🚀 Featured Security Projects
 
-| Project | Description |
-|----------|-------------|
-| Firmware Rehosting | Rehosted RP2040 firmware using Unicorn Engine and recovered challenge flags |
-| Smart Pet Feeder Pentest | Complete IoT security assessment involving traffic analysis, ARP spoofing and mobile application testing |
-| Secure Software Project | Security-focused software development and vulnerability analysis |
-| Cryptography Assignments | Practical implementation and analysis of modern cryptographic protocols |
+A curated selection of academic and practical cybersecurity projects.
+
+| Project | Description | Tech & Methods |
+|----------|-------------|---------------|
+| Firmware Rehosting (RP2040) | Rehosted Raspberry Pi Pico firmware using Unicorn Engine, reconstructed memory regions, hooked firmware functions, and recovered challenge flags. | Python · Unicorn Engine · Ghidra · ARM Thumb · Firmware Analysis |
+| Smart Pet Feeder Security Assessment | Comprehensive IoT security assessment involving network reconnaissance, protocol analysis, ARP spoofing, DNS spoofing, mobile application analysis, and traffic interception. | Nmap · Wireshark · Bettercap · MobSF · Frida |
+| Secure Software Engineering | Security-focused software development project involving vulnerability assessment, secure coding practices, and threat modelling. | Python · Java · Secure SDLC · Risk Analysis |
+| Cryptographic Protocol Analysis | Analysis and implementation of authentication mechanisms, secure communication protocols, encryption schemes, and security proofs. | Cryptography · Protocol Security · PKI |
+| Malware Analysis Laboratory | Static and dynamic analysis of malicious binaries to identify behaviour, persistence mechanisms, and indicators of compromise. | Ghidra · Dynamic Analysis · Reverse Engineering |
+| Network Security Assessment | Traffic inspection, protocol analysis, attack simulation, and threat detection using enterprise networking concepts. | Wireshark · TCP/IP · IDS Concepts |
+| Fuzzing & Vulnerability Research | Identification of software weaknesses using fuzz testing and input mutation techniques. | AFL · Fuzzing · Secure Software Testing |
+| Digital Forensics Investigation | Collection and analysis of digital evidence, logs, and system artefacts to reconstruct security incidents. | Autopsy · Log Analysis · Incident Response |
 
 ## 🛠️ Tech Stack
 
