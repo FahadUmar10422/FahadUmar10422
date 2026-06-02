@@ -29,7 +29,9 @@ I work on problems such as:
 
 Currently building practical security projects and labs while pursuing my MSc in Cyber Security.
 
-## 🔒 About Me
+---
+
+## 🔭 Current Focus Areas
 
 - 🎓 MSc Cyber Security – University of Birmingham
 - 🐍 Python Developer
