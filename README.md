@@ -1,9 +1,8 @@
 <div align="center">
   <img src="banner.png" alt="Banner">
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahadUmar10422&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
+
 
 <h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
@@ -120,4 +119,8 @@ I work on problems such as:
 
 **Tools:** Docker · Git · GitHub · Linux · Windows · Virtualization · QEMU
 
+<h2 align="center">🐍 Contribution Graph</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FahadUmar10422/FahadUmar10422/output/github-contribution-grid-snake.svg" />
+</p>
