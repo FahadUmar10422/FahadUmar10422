@@ -5,11 +5,11 @@
 <h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
 <p align="center">
-MSc Cyber Security @ University of Birmingham| Penetration Testing | Reverse Engineering | Malware Analysis | Digital Forensics | Firmware Security
+**MSc Cyber Security @ University of Birmingham| Penetration Testing | Reverse Engineering | Malware Analysis | Digital Forensics | Firmware Security**
 </p>
 
 
-----
+---
 Cybersecurity enthusiast with interests in:
 
 - Penetration Testing
