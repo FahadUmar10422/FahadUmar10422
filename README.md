@@ -2,7 +2,7 @@
   <img src="banner.png" width="300%">
 </p>
 
-<h1 align="center">Hi, I'm Fahad Umar 👋</h1>
+<h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
 ## MSc Cyber Security @ University of Birmingham
 
