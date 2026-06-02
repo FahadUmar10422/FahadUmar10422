@@ -46,9 +46,11 @@ I work on problems such as:
 
 ---
 
-## 🚀 Featured Security Projects
+## 🧪 Featured Security Projects
 
-A curated selection of academic and practical cybersecurity projects.
+<p align="center">
+  A curated selection of academic and practical cybersecurity projects.
+</p>
 
 | Project | Description | Tech & Methods |
 |----------|-------------|---------------|
