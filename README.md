@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
-<h3 align="center">MSc Cyber Security @ University of Birmingham</h3>
+<h4 align="center">MSc Cyber Security @ University of Birmingham</h4>
 
 Cybersecurity enthusiast with interests in:
 
