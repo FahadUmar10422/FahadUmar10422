@@ -33,7 +33,6 @@ Currently building practical security projects and labs while pursuing my MSc in
 
 ## 🔭 Current Focus Areas
 
-## 🔭 Current Focus Areas
 
 ⚙️ Firmware rehosting, binary analysis, and reverse engineering of embedded systems
 
