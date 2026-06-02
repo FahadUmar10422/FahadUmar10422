@@ -14,15 +14,18 @@
 
 I am an MSc Cyber Security student at the University of Birmingham with a strong interest in offensive security, malware analysis, reverse engineering, firmware security, and digital forensics. My goal is to understand how systems fail, identify security weaknesses, and develop practical solutions to improve cyber resilience. I enjoy working on projects involving firmware analysis, IoT security, cryptographic systems, network security assessments, and vulnerability research.
 
-Cybersecurity enthusiast with interests in:
+I work on problems such as:
 
-- Penetration Testing
-- Reverse Engineering
-- Malware Analysis
-- Digital Forensics
-- Network Security
-- Firmware Security
-- IoT Security
+* Firmware reverse engineering, binary analysis, and emulation of embedded systems.
+* Security evaluation of IoT ecosystems, including device, network, and mobile application components.
+* Vulnerability research through fuzzing, protocol analysis, and secure software assessment.
+* Static and dynamic malware analysis to understand attacker techniques and defensive strategies.
+* Cryptographic protocol analysis, authentication mechanisms, and secure communication architectures.
+* Hardware security assessment involving secure boot chains, firmware integrity, and storage encryption technologies.
+* Network traffic analysis, intrusion detection, and threat hunting across modern infrastructures.
+* Digital forensic investigations and incident response workflows for security event reconstruction.
+* Threat modelling and security architecture review to strengthen the resilience of software and hardware systems.
+
 
 Currently building practical security projects and labs while pursuing my MSc in Cyber Security.
 
