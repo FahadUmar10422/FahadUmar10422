@@ -123,18 +123,12 @@ I work on problems such as:
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadUmar10422&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahadUmar10422&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUmar10422&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahadUmar10422&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadUmar10422&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadUmar10422&theme=tokyonight" />
 </p>
