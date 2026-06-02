@@ -44,6 +44,8 @@ Currently building practical security projects and labs while pursuing my MSc in
 • 🐧 Linux and Windows security, privilege escalation analysis, and system hardening  
 • 🚀 Security research projects involving firmware emulation, embedded security, and defensive technologies
 
+---
+
 - # 🚀 Featured Security Projects
 
 | Project | Description |
