@@ -66,6 +66,8 @@ I work on problems such as:
 | Network Security Assessment | Traffic inspection, protocol analysis, attack simulation, and threat detection using enterprise networking concepts. | Wireshark · TCP/IP · IDS Concepts |
 | Fuzzing & Vulnerability Research | Identification of software weaknesses using fuzz testing and input mutation techniques. | AFL · Fuzzing · Secure Software Testing |
 | Digital Forensics Investigation | Collection and analysis of digital evidence, logs, and system artefacts to reconstruct security incidents. | Autopsy · Log Analysis · Incident Response |
+| ARM Platform Security, Verified Boot & Full-Disk Encryption | Established a Root of Trust for an ARM-based platform using U-Boot Verified Boot, configured RSA-2048 signed FIT images, assessed platform security limitations in QEMU, and implemented LUKS2 full-disk encryption with AES-XTS encryption, Argon2id key derivation, secure key rotation, and passphrase/keyfile-based authentication. | U-Boot · QEMU · ARM64 · Secure Boot · Root of Trust · RSA-2048 · LUKS2 · AES-XTS · Argon2id · Linux Security |
+
 
 ## 🛠️ Tech Stack
 
