@@ -11,6 +11,13 @@
 
 ---
 ## 🔬 About Me
+## 🛡️ About Me
+
+I am an MSc Cyber Security student at the University of Birmingham with a strong interest in offensive security, malware analysis, reverse engineering, firmware security, and digital forensics.
+
+My goal is to understand how systems fail, identify security weaknesses, and develop practical solutions to improve cyber resilience.
+
+I enjoy working on projects involving firmware analysis, IoT security, cryptographic systems, network security assessments, and vulnerability research.
 
 Cybersecurity enthusiast with interests in:
 
