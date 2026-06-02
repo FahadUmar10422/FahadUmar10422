@@ -69,26 +69,53 @@ I work on problems such as:
 | ARM Platform Security, Verified Boot & Full-Disk Encryption | Established a Root of Trust for an ARM-based platform using U-Boot Verified Boot, configured RSA-2048 signed FIT images, assessed platform security limitations in QEMU, and implemented LUKS2 full-disk encryption with AES-XTS encryption, Argon2id key derivation, secure key rotation, and passphrase/keyfile-based authentication. | U-Boot · QEMU · ARM64 · Secure Boot · Root of Trust · RSA-2048 · LUKS2 · AES-XTS · Argon2id · Linux Security |
 
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Security
+### 🛡️ Cybersecurity
 
-![Wireshark](https://img.shields.io/badge/Wireshark-blue)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange)
-![Nmap](https://img.shields.io/badge/Nmap-green)
-![Metasploit](https://img.shields.io/badge/Metasploit-blue)
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
-### Programming
+**Tools:** Wireshark · Burp Suite · Nmap · Metasploit · Bettercap · MobSF · Frida · Ghidra · Autopsy · John the Ripper
 
-![Python](https://img.shields.io/badge/Python-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![C](https://img.shields.io/badge/C-blue)
-![Bash](https://img.shields.io/badge/Bash-black)
+---
 
-### Operating Systems
+### 🔍 Reverse Engineering & Malware Analysis
 
-![Linux](https://img.shields.io/badge/Linux-black)
-![Windows](https://img.shields.io/badge/Windows-blue)
+<img src="https://skillicons.dev/icons?i=python,c,linux" />
+
+**Tools:** Ghidra · Unicorn Engine · Radare2 · ARM Analysis · Static Analysis · Dynamic Analysis · Firmware Rehosting
+
+---
+
+### 🌐 Network & Infrastructure Security
+
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+
+**Tools:** Wireshark · TCP/IP Analysis · Network Monitoring · Threat Hunting · Incident Response · IDS/IPS Concepts
+
+---
+
+### 🔐 Platform & Hardware Security
+
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+
+**Tools:** U-Boot · QEMU · Secure Boot · Verified Boot · Root of Trust · LUKS2 · AES-XTS · Argon2id · ARM64
+
+---
+
+### 💻 Software Development & Security
+
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github" />
+
+**Tools:** Secure SDLC · Threat Modelling · Fuzz Testing · Secure Coding · Vulnerability Assessment
+
+---
+
+### ☁️ Development & Platforms
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
+
+**Tools:** Docker · Git · GitHub · Linux · Windows · Virtualization · QEMU
 
 ## 📊 GitHub Stats
 
