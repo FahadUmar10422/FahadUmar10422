@@ -119,6 +119,7 @@ I work on problems such as:
 
 **Tools:** Docker · Git · GitHub · Linux · Windows · Virtualization · QEMU
 
+# 📊 GitHub Analytics
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
