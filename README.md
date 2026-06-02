@@ -1,6 +1,9 @@
 <div align="center">
   <img src="banner.png" alt="Banner">
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahadUmar10422&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
@@ -126,16 +129,11 @@ I work on problems such as:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUmar10422&layout=compact&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadUmar10422&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahadUmar10422&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahadUmar10422/FahadUmar10422/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FahadUmar10422&theme=tokyonight&no-frame=true&row=1" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahadUmar10422&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
