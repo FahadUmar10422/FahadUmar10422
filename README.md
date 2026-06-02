@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="banner.png" width="600%">
-</p>
+<div align="center">
+  <img src="banner.png" alt="Banner">
+</div>
 
 <h2 align="center">Hi, I'm Fahad Umar 👋</h2>
 
