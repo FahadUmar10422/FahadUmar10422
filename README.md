@@ -117,13 +117,15 @@ I work on problems such as:
 
 **Tools:** Docker · Git · GitHub · Linux · Windows · Virtualization · QEMU
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahadUmar10422&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahadUmar10422&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUmar10422&layout=compact&theme=tokyonight)
-
-## 📫 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUmar10422&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadUmar10422&theme=tokyonight" />
+</p>
