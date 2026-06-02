@@ -43,6 +43,9 @@ I work on problems such as:
 • 🛡️ Penetration testing of web applications, operating systems, and enterprise environments  
 • 🐧 Linux and Windows security, privilege escalation analysis, and system hardening  
 • 🚀 Security research projects involving firmware emulation, embedded security, and defensive technologies
+* 🔐 Secure boot, verified boot chains, and Root of Trust implementation
+* 💾 Full-disk encryption, key management, and platform storage security
+* ⚙️ ARM platform security, firmware integrity, and secure bootloader design
 
 ---
 
